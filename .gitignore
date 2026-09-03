@@ -4,5 +4,6 @@ analysis_output
 downloads
 tmp
 env
-run-INDAH.bat
 run-inference.bat
+run-INDAH.bat
+.gitignore
